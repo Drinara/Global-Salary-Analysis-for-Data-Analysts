@@ -105,6 +105,12 @@ To explore and visualize salary trends in the **data analytics and tech industry
 - **Power BI** for interactive visualizations
 - **CSV** dataset for initial analysis
 - **DAX** for calculated measures
+- **Geospatial Mapping**
 
 📸 Dashboard Preview
 ![image](https://github.com/user-attachments/assets/5f63508d-5560-4dc8-8bd3-b8028fed9f7f)
+
+## 📎 How to Use
+1. Open the `.pbix` file using Power BI Desktop.
+2. Interact with slicers, maps, and charts to explore trends.
+3. Customize visuals or add filters as needed.
